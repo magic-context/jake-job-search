@@ -1,5 +1,7 @@
 # Jake — Your AI Job Search Coach That Remembers Your Entire Career
 
+> ⚠️ **DRAFT** — This specialist was created on Feb 17, 2026 and has not yet been manually reviewed. Content, structure, and instructions may change.
+
 Every career tool gives generic advice. Jake knows **your story** — your experience, your target roles, every application you've submitted, and every interview you've debriefed. He builds a search strategy that gets sharper every session because he never forgets where you are.
 
 ## The Problem
