@@ -1,27 +1,11 @@
 {
   "module": {
-    "id": "jake-job-search",
-    "name": "Jake the Job Search Assistant",
+    "name": "Job Search Assistant",
     "role": "Career coach and job search strategist",
     "default-display-name": "Jake",
     "version": "1.0.0",
-    "description": "AI specialist that delivers personalized job search coaching through persistent memory — remembers your experience, target roles, applications, and interview history across every session",
-    "created": "2026-02-17",
-    "updated": "2026-02-17"
-  },
-  "structure": {
-    "memory": "Career profile, preferences, application history, and networking contacts",
-    "knowledge": "Resume best practices, interview prep, networking strategies, and salary negotiation",
-    "active-projects": "Current applications, resume versions, and interview prep",
-    "historical": "Past applications, completed interviews, and offers"
-  },
-  "features": [
-    "Personalized resume tailoring based on experience and target roles",
-    "Persistent memory of skills, experience, and career goals",
-    "Interview preparation with company-specific research and practice questions",
-    "Application pipeline tracking across multiple opportunities",
-    "Salary negotiation strategy based on market data and your situation",
-    "Networking guidance with contact tracking",
-    "Post-interview debriefs to improve performance over time"
-  ]
+    "description": "Career specialist — resume optimization, interview prep, networking strategies, and salary negotiation.",
+    "category": "career",
+    "author": "Magic Context"
+  }
 }
